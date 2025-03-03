@@ -26,7 +26,7 @@
   "homepage": "https://github.com/krshoss/linkfree-recipes#readme",
   "dependencies": {
     "ajv": "^8.12.0",
-    "globby": "^13.1.3",
+    "globby": "^14.1.0",
     "trevenant": "^1.0.0"
   },
   "devDependencies": {
